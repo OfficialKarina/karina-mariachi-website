@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karina's Mariachi World</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffefd5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #c8102e;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            padding: 1em;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #c8102e;
+        }
+        .links a {
+            color: #c8102e;
+            text-decoration: none;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #c8102e;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Karina's Mariachi World</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>About Me</h2>
+            <p>Hi! My name is Karina. I am a 22-year-old Mexican American woman. I love playing the trumpet and have a deep passion for mariachi music. Mariachi music is more than just a genre to me; it's a beautiful expression of Mexican culture and heritage.</p>
+        </section>
+
+        <section>
+            <h2>The Beauty of Mariachi</h2>
+            <p>Mariachi music has a rich history that dates back to the 18th century in Western Mexico. It is a blend of indigenous, African, and Spanish musical traditions. The lively music is often accompanied by dancing, and it plays a significant role in Mexican celebrations, from weddings to community gatherings.</p>
+            <p>Mariachi music is characterized by its use of string instruments like the violin, vihuela, guitar, and guitarrón, and often includes trumpets and vocals. It's a symbol of Mexican pride and a way for many Mexican Americans to stay connected to their roots.</p>
+        </section>
+
+        <section>
+            <h2>Reconnect with Your Heritage</h2>
+            <p>If you are a young Mexican American, I encourage you to explore mariachi music. It’s a wonderful way to reconnect with your heritage and celebrate your culture. Playing mariachi music can be a source of joy, pride, and connection to your history.</p>
+        </section>
+
+        <section class="links">
+            <h2>Important Links</h2>
+            <ul>
+                <li><a href="https://www.mariachimusic.com" target="_blank">Mariachi Music</a></li>
+                <li><a href="https://www.mariachi.org" target="_blank">Mariachi Events</a></li>
+                <li><a href="https://www.mariachiheritage.org" target="_blank">Mariachi Heritage Foundation</a></li>
+                <li><a href="https://www.mariachiinstruments.com" target="_blank">Mariachi Instruments</a></li>
+                <li><a href="https://www.mariachiidol.com" target="_blank">Mariachi Idols</a></li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>Connect with me on social media!</p>
+        <p><a href="mailto:karina@example.com" style="color: white;">Email Me</a></p>
+    </footer>
+</body>
+</html>
